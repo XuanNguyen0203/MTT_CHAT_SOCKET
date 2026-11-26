@@ -1,0 +1,2 @@
+# Chỉ cần nếu chọn hướng UI (a) với prompt_toolkit. Hướng (b) tự vẽ lại thì không cần gì thêm.
+# prompt_toolkit

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# File nhận được khi test, không đưa lên repo (giữ lại .gitkeep để thư mục tồn tại)
+downloads/*
+!downloads/.gitkeep
